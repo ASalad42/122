@@ -19,8 +19,6 @@
 
 
 
-- 
-- 
 - Download the installer .exe.
   To verify the integrity of the installer, use the SHA checksum linked from the Download page.
 - Run the installer and follow the wizard steps.
