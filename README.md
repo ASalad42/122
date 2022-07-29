@@ -2,8 +2,18 @@
 
 ## heading 2- creata repo on github to clone to local host 
 ### heading 3 - testing the connection with http 
+
 #### this change has been made locally 
 
+# Installing python
+
+# installing pycharm 
+
+# installing git
+
+# Signup to GitHub 
+
+# Workflow 
 on local host do the following:
 $mkdir foldername
 $cd foldername/
