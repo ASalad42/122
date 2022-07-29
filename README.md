@@ -13,7 +13,7 @@
 - ![image](https://user-images.githubusercontent.com/104793540/181721132-100b0042-ca03-4eb5-9ad5-5b9015ea2dc5.png)
 - Follow installation path for your Operating System 
 
-# installing pycharm 
+# Installing pycharm 
 - PyCharm is a cross-platform IDE that provides consistent experience on the Windows, macOS, and Linux operating systems.
 - PyCharm is available in three editions: Professional, Community, and Edu. The Community and Edu editions are open-source projects and they are free
 - https://www.jetbrains.com/pycharm/download/#section=windows
@@ -32,7 +32,7 @@
 To run PyCharm, find it in the Windows Start menu or use the desktop shortcut. You can also run the launcher batch script or executable in the installation directory under bin.
 
 
-# installing git
+# Installing git
 - https://gitforwindows.org/
 - ![image](https://user-images.githubusercontent.com/104793540/181721257-83018457-2540-4e03-a9fa-6997748f80fc.png)
 
