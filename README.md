@@ -5,6 +5,8 @@
 
 #### this change has been made locally 
 
+#### CREAT DIGITAL WOKFLOW AND INCLUDE HERE 
+
 # Installing python
 - Python is developed under an open source license, making it freely usable and distributable, even for commercial use. 
 - https://www.python.org/downloads/
