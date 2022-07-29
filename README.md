@@ -34,7 +34,8 @@ To run PyCharm, find it in the Windows Start menu or use the desktop shortcut. Y
 
 # installing git
 - https://gitforwindows.org/
-- 
+- ![image](https://user-images.githubusercontent.com/104793540/181721257-83018457-2540-4e03-a9fa-6997748f80fc.png)
+
 
 # Signup to GitHub 
 - https://github.com/
