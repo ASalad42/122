@@ -15,9 +15,8 @@
 - PyCharm is available in three editions: Professional, Community, and Edu. The Community and Edu editions are open-source projects and they are free
 - https://www.jetbrains.com/pycharm/download/#section=windows
 
-![alt text]!![imag![pycharm](https://user-images.githubusercontent.com/104793540/181718158-d1351e9d-4441-4d0c-bc78-45709012c1a8.PNG)
+[imag![pycharm](https://user-images.githubusercontent.com/104793540/181718158-d1351e9d-4441-4d0c-bc78-45709012c1a8.PNG)
 
-e]
 
 
 - 
