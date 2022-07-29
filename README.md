@@ -10,14 +10,12 @@
 - https://www.python.org/downloads/
 - ![image](https://user-images.githubusercontent.com/104793540/181721132-100b0042-ca03-4eb5-9ad5-5b9015ea2dc5.png)
 - Follow installation path for your Operating System 
-- 
+
 # installing pycharm 
 - PyCharm is a cross-platform IDE that provides consistent experience on the Windows, macOS, and Linux operating systems.
 - PyCharm is available in three editions: Professional, Community, and Edu. The Community and Edu editions are open-source projects and they are free
 - https://www.jetbrains.com/pycharm/download/#section=windows
-
-[imag![pycharm](https://user-images.githubusercontent.com/104793540/181718158-d1351e9d-4441-4d0c-bc78-45709012c1a8.PNG)
-
+- [imag![pycharm](https://user-images.githubusercontent.com/104793540/181718158-d1351e9d-4441-4d0c-bc78-45709012c1a8.PNG)
 
 
 - Download the installer .exe.
