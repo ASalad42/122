@@ -40,7 +40,8 @@ To run PyCharm, find it in the Windows Start menu or use the desktop shortcut. Y
 # Signup to GitHub 
 - https://github.com/
 - Make an account to view global workflows and upload work from your local host so it too is available globally 
-- 
+- ![image](https://user-images.githubusercontent.com/104793540/181722187-17232d33-41bb-4092-8e3c-f0c237dab97b.png)
+
 
 # Workflow 
 on local host do the following:
