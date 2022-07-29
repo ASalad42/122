@@ -8,6 +8,7 @@
 # Installing python
 - Python is developed under an open source license, making it freely usable and distributable, even for commercial use. 
 - https://www.python.org/downloads/
+- ![image](https://user-images.githubusercontent.com/104793540/181721132-100b0042-ca03-4eb5-9ad5-5b9015ea2dc5.png)
 - Follow installation path for your Operating System 
 - 
 # installing pycharm 
